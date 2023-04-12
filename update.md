@@ -7,3 +7,7 @@
 12/04/23
 
 > Created the document and repository, no code edits. 
+
+13/04/23
+
+> Designed the basis of the Engine architecture, first thought on how the traffic data model will be represented ( A∈ = MS  - Not set on this idea as I'm unsure of its stability. Too many quaries will cause network disruption. )
