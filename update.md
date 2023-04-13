@@ -11,4 +11,7 @@
 13/04/23
 
 > Designed the basis of the Engine architecture, first thought on how the traffic data model will be represented ( A∈ = MS  - Not set on this idea as I'm unsure of its stability. Too many quaries will cause network disruption. 
-> Made the base layout and functioning of the graph display and traffic being represented through an average of the refresh rate ( Miliseconds - Acts like a real-time display. ) Integration into the engine is yet to happen.
+
+> Structure and operational features of the graph display have been established, with traffic being depicted through an average of the refresh rate (measured in milliseconds), thus creating a real-time display effect. However, integration with the engine has yet to be done.
+
+
