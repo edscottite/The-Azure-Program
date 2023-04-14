@@ -17,3 +17,7 @@
 14/04/23 
 
 > Currently overviewing the stability and security. While stable, it's sending a query to the local network every 500 miliseconds. The IT people at school would be able to detect this easily and would regard this as a security threat.  I'm brainstorming on ideas on how I could minimise this ( Randomise the quaries by 0 - 500 miliseconds, the requests being seen as "performance issues".
+
+> Due to being unsure as to how they're surfing the network, I need to be precise on how I'm doing this. The program cannot be ran for over a minute, it would cause suspicion ( Perhaps 30seconds alone would cause suspicion ). Along with the issue of that they have full control over each device and could easily identify what device is causing the outrage as the traffic would be essentially scambled ( for that device ). 
+
+> Thinking on it now, they can see what and who logs into what for each chromebook.
