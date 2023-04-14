@@ -14,4 +14,6 @@
 
 > Structure and operational features of the graph display have been established, with traffic being depicted through an average of the refresh rate (measured in milliseconds), thus creating a real-time display effect. However, integration with the engine has yet to be done.
 
+14/04/23 
 
+> Currently overviewing the stability and security. While stable, it's sending a query to the local network every 500 miliseconds. The IT people at school would be able to detect this easily and would regard this as a security threat.  I'm brainstorming on ideas on how I could minimise this ( Randomise the quaries by 0 - 500 miliseconds, the requests being seen as "performance issues".
