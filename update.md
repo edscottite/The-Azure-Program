@@ -25,7 +25,10 @@
 17/04/23
 
 > Designed the logo along with implementing it as apart of the Docks. 
+
 > Integrated Windows and MacoS, latest version ( Along with Big Sur compatability).
+
 > The security concern won't appear as an issue upon the Administratives devices ( I hope )
 > Still iffy on the UI and name. Name has went from Remenue -> Scift -> Azure. 
+
 > Most functions/commands are completed. Files having been made exeuctable on both MacOS and Windows has yet to be done. 
