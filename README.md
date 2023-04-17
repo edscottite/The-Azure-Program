@@ -1,4 +1,5 @@
-# Azure or ( Accessible, Zero-Config, Unified, Responsive and Efficent System Terminal )
+
+![image](https://user-images.githubusercontent.com/129643042/232471685-71428539-3620-4990-b2bd-ba9d73b73b62.png) # Azure or ( Accessible, Zero-Config, Unified, Responsive and Efficent System Terminal )
 Windows and MacOS supported ( Linux support is in development )
 
 # Why should I use Azure?
