@@ -34,7 +34,7 @@ https://     .com ( or use .co? )
 
 - chat > Real-time Chat system ( In development ). For future notice, nicknames will be able to be set however the primary form of identification will be ID based. 
 
-- id > generates random ID's on which are linked per device ( cap is 5/five )
+- id > generates random ID's on which are linked per device ( cap is 5/five ). ( lack finicial aid / server to host traffic handling on which supports large users at a single time. For now, will only be limited based. )
 
 # Security Concerns
 Azure is a non-profit application designed as a Terminal that provides seamless access to system-wide control. While some may express concern about the "lg" feature, it is not used for surfing or active monitoring. Rather, it functions solely on a time-based system, limited to one minute or 30 seconds at most, and currently does not offer real-time or infinite/linear progression to the public. Essentially, it monitors network traffic by representing data through queries per 500 milliseconds, providing a near-real-time experience.
