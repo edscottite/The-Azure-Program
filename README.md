@@ -22,11 +22,11 @@ https://     .com ( or use .co? )
 
 - hi > "Hi, YOURNAMEHERE"
 
-- od > Opens Download Directory
+- od (Open Download ) > Opens Download Directory
 
-- oi > Opens system information 
+- oi ( Open Information ) > Opens system information 
 
-- lg > Opens a real-time data module for the client network - The network your device is currently using. ( Quaries are measured per 500 miliseconds and are averaged )
+- lg ( Linear Graph ) > Opens a real-time data module for the client network - The network your device is currently using. ( Quaries are measured per 500 miliseconds and are averaged )
 
 - admin > In development, will allow for the primary user ( admin perms ) to configure/manage lesser clients device via ID ( Varied by device HDI ) with Azure installed. 
 
