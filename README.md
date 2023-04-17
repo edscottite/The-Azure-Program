@@ -1,6 +1,5 @@
-
-![image](https://user-images.githubusercontent.com/129643042/232471685-71428539-3620-4990-b2bd-ba9d73b73b62.png) # Azure or ( Accessible, Zero-Config, Unified, Responsive and Efficent System Terminal )
-Windows and MacOS supported ( Linux support is in development )
+# Azure or ( Accessible, Zero-Config, Unified, Responsive and Efficent System Terminal )
+ - Windows and MacOS supported ( Linux support is in development )
 
 # Why should I use Azure?
 
@@ -38,4 +37,8 @@ https://     .com ( or use .co? )
 - id > generates random ID's on which are linked per device ( cap is 5/five ). ( lack finicial aid / server to host traffic handling on which supports large users at a single time. For now, will only be limited based. )
 
 # Security Concerns
-Azure is a non-profit application designed as a Terminal that provides seamless access to system-wide control upon user command input.
+![image](https://user-images.githubusercontent.com/129643042/232471808-fad3d3a1-df5e-43b8-8ab6-723628fcf617.png)
+
+> Azure is a non-for-profit application designed terminal that provides system-wide control upon user command input for Windows and MacOS
+
+Designed, coded and formatted by Patrick Bolger with the usage of Java and C++.  
