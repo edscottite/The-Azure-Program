@@ -37,6 +37,4 @@ https://     .com ( or use .co? )
 - id > generates random ID's on which are linked per device ( cap is 5/five )
 
 # Security Concerns
-Azure is purely a non-for-profit application in the style of a Terminal ( For now ) on which allows easy access to system wide control. 
-
-I'm aware that concerns may be held in regards to the "lg" feature. It's not "surfing", or actively monitering. It's purely time-based ( Not looped ) and is preferably only to be used for 1 minute  / 30 seconds ( For now - Real-time and infinite/linear progression is not available to the public right now. It merely oversees the network traffic through a data model represented by the quraries per 500 miliseconds ( To give it the "real-time" act ).
+Azure is a non-profit application designed as a Terminal that provides seamless access to system-wide control. While some may express concern about the "lg" feature, it is not used for surfing or active monitoring. Rather, it functions solely on a time-based system, limited to one minute or 30 seconds at most, and currently does not offer real-time or infinite/linear progression to the public. Essentially, it monitors network traffic by representing data through queries per 500 milliseconds, providing a near-real-time experience.
