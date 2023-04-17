@@ -36,10 +36,5 @@ https://     .com ( or use .co? )
 
 - id > generates random ID's on which are linked per device ( cap is 5/five ). ( lack finicial aid / server to host traffic handling on which supports large users at a single time. For now, will only be limited based. )
 
-# Security Concerns
-![image](https://user-images.githubusercontent.com/129643042/232471808-fad3d3a1-df5e-43b8-8ab6-723628fcf617.png)
 
-> Azure is a non-for-profit application designed terminal that provides system-wide control upon user command input for Windows and MacOS
-
-Designed, coded and formatted by **Patrick Bolger** with the usage of Java and C++.  
-> thesornragnar@gmail.com    -- Email has been provided to answer concerns and questions.
+**Azure** ( v0.1 ) is a non-for-profit application designed terminal that provides system-wide control upon user command input for Windows and MacOS. 
