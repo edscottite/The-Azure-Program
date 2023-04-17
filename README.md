@@ -18,6 +18,8 @@ https://     .com ( or use .co? )
 
 > Azure can provide you with a range of benefits, depending on your needs. With its simplified control, access, and viewing of information on your local device, you can easily manage and monitor your data and its traffic. This can be particularly useful in workplaces, personal use, or for entertainment purposes. Additionally, Azure’s user-friendly interface can make it easier for you to retrieve and organize data, saving you time and effort. Overall, Azure can help you to improve your efficiency and productivity, while providing you with greater control over your local data.
 
+Version = 0.1
+
 # Commands
 
 - hi > "Hi, YOURNAMEHERE"
@@ -36,5 +38,3 @@ https://     .com ( or use .co? )
 
 - id > generates random ID's on which are linked per device ( cap is 5/five ). ( lack finicial aid / server to host traffic handling on which supports large users at a single time. For now, will only be limited based. )
 
-
-**Azure** ( v0.1 ) is a non-for-profit application designed terminal that provides system-wide control upon user command input for Windows and MacOS. 
