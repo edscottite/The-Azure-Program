@@ -42,3 +42,4 @@ https://     .com ( or use .co? )
 > Azure is a non-for-profit application designed terminal that provides system-wide control upon user command input for Windows and MacOS
 
 Designed, coded and formatted by **Patrick Bolger** with the usage of Java and C++.  
+> thesornragnar@gmail.com    -- Email has been provided to answer concerns and questions.
