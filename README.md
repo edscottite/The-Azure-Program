@@ -36,7 +36,9 @@ Version = 0.1
 
 - chat > Real-time Chat system ( In development ). For future notice, nicknames will be able to be set however the primary form of identification will be ID based. 
 
-- id > Generates random ID's on which are linked per device ( cap is 5/five ). ( lack finicial aid / server to host traffic handling on which supports large users at a single time. For now, will only be limited based. )
+- id > Generates random ID's on which are linked per device ( cap is 5/five ). ( lack financial aid / server to host traffic handling on which supports large users at a single time. For now, will only be limited based. )
 
 - scan > Indentifies network IP's
 
+# Planned
+> 50+ Commands ( Including customisable commands such as GUI change via Colours/Images/Videos  )
