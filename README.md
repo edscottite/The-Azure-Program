@@ -41,5 +41,5 @@ Version = 0.1
 - scan > Indentifies network IP's
 
 # Planned
-> 50+ Commands ( Including customisable commands such as GUI change via Colours/Images/Videos  )
-> Linux Support
+- 50+ Commands ( Including customisable commands such as GUI change via Colours/Images/Videos  )
+- Linux Support
