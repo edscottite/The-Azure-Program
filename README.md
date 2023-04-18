@@ -38,3 +38,7 @@ Version = 0.1
 
 - id > generates random ID's on which are linked per device ( cap is 5/five ). ( lack finicial aid / server to host traffic handling on which supports large users at a single time. For now, will only be limited based. )
 
+- scan > indentifies network IP's and lists the device name next to them ( Using WireFrame API )
+
+- capture > surfs the network for packets and lists them 
+
