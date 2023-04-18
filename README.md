@@ -42,3 +42,4 @@ Version = 0.1
 
 # Planned
 > 50+ Commands ( Including customisable commands such as GUI change via Colours/Images/Videos  )
+> Linux Support
