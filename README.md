@@ -6,7 +6,7 @@
  > Azure is an adaptability engine for retrieving local data via command input. It offers a suite of administrative tools that simplify complex data into digestible insights. With Azure, you can take complete control of your operating system and customize settings to suit the specific needs of your users. Its backdoor defendability and scanning capabilities can detect unknown backdoors and malware that may interfere with your app's functionality and overall OS control.
 
 
-Version = 0.1
+Version = 0.1      
 
 # Commands
 
