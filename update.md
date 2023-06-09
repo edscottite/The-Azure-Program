@@ -32,3 +32,7 @@
 > Still iffy on the UI and name. Name has went from Remenue -> Scift -> Azure. 
 
 > Most functions/commands are completed. Files having been made exeuctable on both MacOS and Windows has yet to be done. 
+
+09/06/2023
+
+> Encountered various issues relating to the JAVA pathway on my Mac, pending resolve.
