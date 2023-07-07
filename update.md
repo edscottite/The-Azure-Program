@@ -36,3 +36,7 @@
 09/06/2023
 
 > Encountered various issues relating to the JAVA pathway on my Mac, pending resolve.
+
+07/07/2023 ( 6:16pm )
+
+> Project is dismissed.
