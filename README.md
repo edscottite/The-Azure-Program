@@ -22,7 +22,7 @@ Version = 0.1
 
 - id > Generates random ID's on which are linked per device ( cap is 5/five ). ( To handle traffic, the selection process is limited )
 
-- scan > Indentifies network IP's
+- scan > Indentifies network IP's and connectivity stability average
 
 # Planned
 - New logo ( Universal )
