@@ -16,7 +16,7 @@ Version = 0.1
 
 - oi ( Open Information ) > Opens system information 
 
-- lg ( Linear Graph ) > Opens a real-time data module for the client network - The network your device is currently using. ( Quaries are measured per 500 miliseconds and are averaged )
+- lg ( Linear Graph ) > Opens a real-time data module for the client network - The network your device is currently using. ( Queries are measured per 500 miliseconds and are averaged )
 
 - info > Basic Device System Information
 
