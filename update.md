@@ -2,7 +2,7 @@
 
 04/04/23 
 
-> UI Framework + Design, command integration ( File Opening, Network Response, Intro the Administration settings and Local Device Information Capture. I failed on integrating a command output for the graph on which displays the traffic through a graph model. ( I was tired at the time and my brain had started to hurt along with starting to become frustrated with the issues beforehnd. 
+> UI Framework + Design, command integration ( File Opening, Network Response, Intro the Administration settings and Local Device Information Capture. I failed on integrating a command output for the graph on which displays the traffic through a graph model. ( I was tired at the time and my brain had started to hurt along with starting to become frustrated with the issues beforehand. )
 
 12/04/23
 
@@ -10,7 +10,7 @@
 
 13/04/23
 
-> Designed the basis of the Engine architecture, first thought on how the traffic data model will be represented ( A∈ = MS  - Not set on this idea as I'm unsure of its stability. Too many quaries will cause network disruption. 
+> Designed the basis of the Engine architecture, first thought on how the traffic data model will be represented ( A∈ = MS  - Not set on this idea as I'm unsure of its stability. Too many quaries will cause network disruption. )
 
 > Structure and operational features of the graph display have been established, with traffic being depicted through an average of the refresh rate (measured in milliseconds), thus creating a real-time display effect. However, integration with the engine has yet to be done.
 
