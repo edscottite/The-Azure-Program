@@ -1,4 +1,7 @@
-# Azure or ( Accessible, Zero-Config, Unified, Responsive and Efficent System Terminal )
+**The Azure Program**
+# ( Accessible, Zero-Config, Unified, Responsive and Efficent System Terminal )
+
+
  - Windows and MacOS supported ( Linux support is in development )
 
 # Why should I use Azure?
