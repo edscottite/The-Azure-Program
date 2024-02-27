@@ -28,10 +28,6 @@ Version = 0.1
 - scan > Indentifies network IP's and connectivity stability average
 
 # Planned
-- New logo ( Universal )
-- Administration System ( Admin > Users  [ Control, Configure and Manage all connected devices ] )
-- Real-time Message Handling System ( ID based )
-- Text-To-Speech command
-- Games ( Tetris & Pac-man )
-- UI Colour Upload
+- Automated AI Debug and Reponse Properties
+- Games ( Tetris & Pac-man ) 
 - Linux and Windows support
