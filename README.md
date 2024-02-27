@@ -6,8 +6,7 @@
 
 # Why should I use Azure?
 
- > Azure is an adaptability engine for retrieving local data via command input. It offers a suite of administrative tools that simplify complex data into digestible insights. With Azure, you can take complete control of your operating system and customize settings to suit the specific needs of your users. Its backdoor defendability and scanning capabilities can detect unknown backdoors and malware that may interfere with your app's functionality and overall OS control.
-
+> The Azure Program is a piece of software that any modern operating system could use. It offered various cyber-security tools such as Network Montering ( Who, When and How someone is connected to your WAN - Wireless Area Network ) and backdoor defence capability ( APPROVED APPS ONLY ). The main idea of the project was the concept of accessability. Did your mouse break? Type in any keyboard shortcut to get where you'd go. Want to test your brain while having fun? Tetris and Pac-man. The program itself is designed as a simple terminal to keep things sleak and simple. The program's goal is not to put constraint on your devices functionality so we do that by minismilising design but it can customied upon the users choice.
 
 Version = 0.1      
 
