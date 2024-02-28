@@ -6,7 +6,7 @@
 
 # Why should I use Azure?
 
-> The Azure Program is a piece of software that any modern operating system can use. It offers  cyber-security tools such as Network Montering ( Who, When and How someone is connected to your WAN - Wireless Area Network ) and backdoor defence capability ( APPROVED APPS ONLY ). The main idea of the project was the concept of accessability. Did your mouse break? Type in any keyboard shortcut to get where you'd go. Want to test your brain while having fun? Tetris and Pac-man. The program itself is designed as a simple terminal to keep things sleak and simple. The program's goal is not to put constraint on your devices functionality so we do that by minismilising design but it can customied upon the users choice.
+The Azure Program is a piece of software that can run on any current operating system. It provides cyber-security capabilities such as as Network Montering (Who, When, and How Someone Connects to Your WAN - Wireless Area Network) and backdoor defensive capability (APPROVED APPS ONLY). The basic idea behind the project was the concept of accessibility. Did your mouse break? Type any keyboard shortcut to reach where you want to go. Want to challenge your intellect while having fun? Tetris and Pac-Man. The programme is designed as a small terminal to keep things clean and uncomplicated. The program's purpose is not to limit your device's capabilities, thus we utilise a minimalist design that can be customised by the user.
 
 Version = 0.1      
 
