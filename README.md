@@ -1,5 +1,5 @@
-**The Azure Program**
-# ( Accessible, Zero-Config, Unified, Responsive and Efficent System Terminal )
+# **The Azure Program**
+Designed and developed by Patrick Neil using C++.
 
 
  - Windows and MacOS supported ( Linux support is in development )
