@@ -30,3 +30,6 @@ Version = 0.1
 - Automated AI Debug and Reponse Properties
 - Games ( Tetris & Pac-man ) 
 - Linux and Windows support
+
+
+Project is dismissed due to focusing on life outside of GitHub.
